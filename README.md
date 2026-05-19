@@ -1,10 +1,10 @@
-# Hoover Content System (HCS)
+# Health Shield Content System (HSCS)
 
-A skill-based system for content creation. Each skill is a structured package with defined inputs, workflows, templates, and quality criteria.
+A skill-based system for clear, consistent content creation across Health Shield. Each skill is a structured package with defined inputs, workflows, templates, and quality criteria.
 
 ## What This Is
 
-HCS provides repeatable skills for:
+HSCS provides repeatable skills for:
 
 - **UX Writing** – Error messages, empty states, dialogs, notifications, forms, onboarding
 - **Content Design** – UI copy systems, patterns, audits, naming, cognitive load
@@ -131,6 +131,13 @@ This repo includes instruction files for AI assistants:
 Each file contains the skill trigger index for fast matching.
 
 ## Contributing
+
+When contributing, make sure new or updated skills:
+
+- Support clear, member-friendly communication
+- Follow shared accessibility and style standards
+- Reflect Health Shield terminology and naming rules
+- Account for compliance, review, and approval needs where relevant
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add or update skills.
 
