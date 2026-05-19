@@ -1,6 +1,6 @@
 # TEMPLATES.md
 
-# `survey-results-whitepaper` — TEMPLATES.md
+# `market-survey-whitepaper` — TEMPLATES.md
 
 ## Purpose
 
