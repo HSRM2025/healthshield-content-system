@@ -1,6 +1,6 @@
 # RUBRIC.md
 
-# `survey-results-whitepaper` — RUBRIC.md
+# `market-survey-whitepaper` — RUBRIC.md
 
 ## Purpose
 
