@@ -1,4 +1,4 @@
-# `survey-results-whitepaper` — SKILL.md
+# `market-survey-whitepaper` — SKILL.md
 
 ## Purpose
 
