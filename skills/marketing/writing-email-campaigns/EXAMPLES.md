@@ -1,5 +1,191 @@
 # Examples
 
+## Example 1: Monthly wellbeing nurture email — prospects
+
+**Input:**
+
+- Goal: Nurture employer prospects with helpful wellbeing content
+- Audience: Prospective employer clients
+- Theme: Social wellbeing
+- Featured resource: Social Wellbeing Toolkit
+- Trigger: Monthly nurture send for April
+- Desired action: Download the toolkit
+- Key message: Supporting social wellbeing helps create a more inclusive, connected workplace
+- Constraints: Keep tone warm and practical; avoid medical advice; one CTA only
+
+**Output:**
+
+```
+# Email: April Wellbeing Nurture — Prospects
+
+## Metadata
+- **Subject line**: Build a connected team with this toolkit
+- **Preview text**: A practical guide to creating an inclusive and supportive workplace.
+- **Send trigger**: Monthly nurture send — April
+- **Primary CTA**: Get your toolkit now
+
+## Email body
+
+### Opening hook
+Hi [First Name],
+
+Supporting your team’s wellbeing goes beyond physical health. Feeling connected and valued at work can make a real difference to how your people feel each day.
+
+### Main content
+That’s why we’ve put together our Social Wellbeing Toolkit. It’s a practical resource designed to help you build a workplace where people feel included, respected, and supported.
+
+Inside, you’ll find:
+- tips to help create a more open and inclusive workplace
+- guidance to support a more LGBTQ+ inclusive environment
+- clear information to help you understand neurodiversity
+- simple ways to bring more kindness into working life
+- a reminder of why self-care matters for your team
+
+When people feel they belong, they’re more likely to feel happy, supported, and able to do their best work. Small steps to support social wellbeing can help shape the healthy workplace your people deserve.
+
+### CTA section
+If you’d like a simple way to support your team’s wellbeing, this is a good place to start.
+
+**[Get your toolkit now]**
+
+### Sign-off
+Take care,
+
+The Health Shield Team
+
+---
+
+## Alt text for images
+[Image 1]: [Placeholder for toolkit header image alt text]
+```
+
+---
+
+## Example 2: Monthly wellbeing nurture email — brokers
+
+**Input:**
+
+- Goal: Help brokers share useful wellbeing content with clients
+- Audience: Brokers
+- Theme: Social wellbeing
+- Featured resource: Social Wellbeing Toolkit
+- Trigger: Monthly nurture send for April
+- Desired action: Share the toolkit with clients
+- Key message: The toolkit is a practical client resource that also reinforces the value of a health cash plan
+- Constraints: Keep tone supportive and professional; frame as shareable client support content; one CTA only
+
+**Output:**
+
+```
+# Email: April Wellbeing Nurture — Brokers
+
+## Metadata
+- **Subject line**: Support your clients with this toolkit
+- **Preview text**: A practical resource to help clients build inclusive, connected workplaces.
+- **Send trigger**: Monthly nurture send — April
+- **Primary CTA**: Share the toolkit now
+
+## Email body
+
+### Opening hook
+Hi [First Name],
+
+Here’s a helpful resource you can pass on to your clients this month. Our Social Wellbeing Toolkit is designed to support healthier, more inclusive workplaces in a practical and approachable way.
+
+### Main content
+The toolkit is ideal for clients who want to help their people feel more connected, supported, and valued at work. It gives them simple ideas they can use to encourage inclusion, balance, and self-care across their teams.
+
+Why share it with clients:
+- it helps them build workplaces where people feel welcome and supported
+- it gives them a useful wellbeing resource they can share with their teams
+- it reminds clients and employees about the wider value of their health cash plan
+- it helps strengthen trusted, long-term relationships
+
+This kind of practical support can help clients get more from their employee benefits while showing that everyday wellbeing matters.
+
+### CTA section
+If you’d like to share it with your clients, you can do that here.
+
+**[Share the toolkit now]**
+
+### Sign-off
+If you’ve got any questions, we’re always here to help.
+
+Take care,
+
+The Health Shield Team
+
+---
+
+## Alt text for images
+[Image 1]: [Placeholder for toolkit preview image alt text]
+```
+
+---
+
+## Example 3: Monthly wellbeing nurture email — customers
+
+**Input:**
+
+- Goal: Help existing customers support employee wellbeing with useful content
+- Audience: Existing employer customers
+- Theme: Gut health
+- Featured resource: Gut Health Tipsheet
+- Seasonal hook: World Digestive Health Day on 29 May
+- Trigger: Monthly nurture send for May
+- Desired action: Download the tipsheet
+- Key message: Small everyday habits can support gut health and wider wellbeing
+- Constraints: Keep language non-clinical and educational; mention health cash plan value where appropriate; one CTA only
+
+**Output:**
+
+```
+# Email: May Wellbeing Nurture — Customers
+
+## Metadata
+- **Subject line**: Gut health tips for happier employees
+- **Preview text**: Support your people this World Digestive Health Day on 29 May.
+- **Send trigger**: Monthly nurture send — May
+- **Primary CTA**: Download the Gut Health Tipsheet
+
+## Email body
+
+### Opening hook
+Hi [First Name],
+
+With World Digestive Health Day coming up on 29 May, we wanted to share a helpful resource for your team. Our Gut Health Tipsheet offers simple, everyday advice your people can use to support their wellbeing.
+
+### Main content
+Gut health is closely linked to how people feel day to day, including energy, sleep, and general wellbeing. But with so much information out there, it can be hard to know what advice is worth following.
+
+That’s why we’ve created a simple guide that’s easy to share across your workplace. It covers practical steps and small lifestyle changes that can help your people take care of their wellbeing in a manageable way.
+
+Sharing this tipsheet can help you:
+- show your people that their everyday wellbeing matters
+- offer simple and supportive guidance they can use at their own pace
+- add extra value to the wellbeing support already available through your health cash plan
+- keep wellbeing part of the conversation across your workplace
+
+### CTA section
+If you’d like to share this with your team, you can download it below.
+
+**[Download the Gut Health Tipsheet]**
+
+### Sign-off
+Providing everyday support can make a real difference. Thanks for helping your people stay in the best of health.
+
+Take care,
+
+The Health Shield Team
+
+---
+
+## Alt text for images
+[Image 1]: [Placeholder for tipsheet cover image alt text]
+```
+
+
+
 ## Example 1: SaaS trial nurture sequence
 
 Input:
