@@ -1,4 +1,4 @@
-# shared/style.md
+# Style
 
 **Governance area:** Style and formatting\
 **Applies to:** All content outputs across all channels and formats\
