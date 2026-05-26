@@ -140,7 +140,7 @@ If you need to create a pause, introduce a clause, or add emphasis, use one of t
 
 > "We'll help your people stay healthy, and that matters to us." ✓ (comma)\
 > "We've updated your allowances. If anything looks off, just get in touch." ✓ (full stop)\
-> "This service – available 24/7 – connects you with a qualified GP." ✓ (en dash with spaces)\
+> "This service – available 24/7 – connects you with a qualified GP." ✗ (en dash with spaces, banned)\
 > "This service—available 24/7—connects you with a qualified GP." ✗ (em dash, banned)
 
 ### En dash
@@ -331,7 +331,7 @@ The following are not permitted in Health Shield content.
 
 | Prohibited                                                                 | Reason                                                                          |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Em dash (—) for breaks or interruptions                                    | Not part of Health Shield's style. Use commas, full stops, or a spaced en dash. |
+| Em dash (—) for breaks or interruptions                                    | Not part of Health Shield's style. Use commas or full stops.                    |
 | "Healthshield" or "HEALTH SHIELD"                                          | Incorrect formatting of the brand name                                          |
 | Formal corporate language (see `governance/friendly-language-standard.md`) | Conflicts with our warm, plain-English voice                                    |
 | Overcapitalised CTAs ("Find Your Health Cash Plan")                        | Sentence case only for buttons and labels                                       |
