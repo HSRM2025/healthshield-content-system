@@ -229,6 +229,11 @@ Write a system prompt for an agent that [purpose].
 - Tone: [how it should communicate]
 ```
 
+### Repository review
+```
+Review the HSCS repository at https://github.com/HSRM2025/healthshield-content-system in depth. Read the repo overview, shared standards, governance guidance, AI agent instruction files, and any task-relevant skills. Do not complete any task yet — just gather and retain the framework, then wait for my next instruction.
+```
+
 ### Tool Description
 ```
 Write a tool description for [tool name].
