@@ -157,8 +157,122 @@
     }
   },
   "product_terms": {
-    "_comment": "Add product-specific terms here. Format: term-key with canonical, prohibited, and context."
+
+  "tailored-health-cash-plan": {
+    "canonical": "Tailored Health Cash Plan",
+    "prohibited": ["tailored plan", "tailored cash plan", "tailored health plan"],
+    "context": "Use title case when referring to this specific product. Use lowercase 'health cash plan' only when referring to cash plans in general, not this product specifically."
   },
+
+  "select-health-cash-plan": {
+    "canonical": "Select Health Cash Plan",
+    "prohibited": ["select plan", "select cash plan", "select health plan"],
+    "context": "Use title case when referring to this specific product. Do not shorten to 'Select' alone in member-facing or marketing content."
+  },
+
+  "flexible-health-cash-plan": {
+    "canonical": "Flexible Health Cash Plan",
+    "prohibited": ["flexible plan", "flexible cash plan", "flexible health plan"],
+    "context": "Use title case when referring to this specific product. Use lowercase 'health cash plan' only in general references."
+  },
+
+  "corporate-health-cash-plan": {
+    "canonical": "Corporate Health Cash Plan",
+    "prohibited": ["corporate plan", "corporate cash plan", "corporate health plan", "the corporate"],
+    "context": "Use title case when referring to this specific product. Do not abbreviate or shorten in any member-facing, employer-facing, or marketing content."
+  },
+
+  "gp-anytime": {
+    "canonical": "GP Anytime",
+    "prohibited": ["GP service", "online GP", "virtual GP", "GP anytime service"],
+    "context": "Additional benefit included with health cash plans. Provides 24/7 access to GP appointments via phone or video. Provided by Health Hero. Always write as 'GP Anytime' with both words capitalised."
+  },
+
+  "employee-assistance-programme": {
+    "canonical": "Employee Assistance Programme",
+    "prohibited": ["EAP service", "employee assistance program", "counselling programme"],
+    "context": "Additional benefit providing confidential guidance and expert support. Acceptable to abbreviate as 'EAP' after first use. Provided by Health Assured or Spectrum.Life depending on plan. Do not use US spelling 'Program'."
+  },
+
+  "247-counselling-and-support-helpline": {
+    "canonical": "24/7 Counselling and Support Helpline",
+    "prohibited": ["counselling helpline", "support line", "helpline"],
+    "context": "Additional benefit providing round-the-clock confidential counselling. Provided by Health Assured or Spectrum.Life depending on plan. Always write in full on first reference. Use British spelling 'Counselling', not 'Counseling'."
+  },
+
+  "skinvision": {
+    "canonical": "SkinVision",
+    "prohibited": ["Skin Vision", "skin vision", "skin check app"],
+    "context": "Additional benefit. AI-enabled service for skin cancer risk checking and tailored health advice. Provided by SkinVision B.V. Always written as one word with capital S and capital V."
+  },
+
+  "perks": {
+    "canonical": "PERKS",
+    "prohibited": ["Perks", "perks", "employee perks", "shopping discounts"],
+    "context": "Additional benefit providing exclusive shopping savings and discounts on top brands. Provided by BenefitHub. Always written in full capitals."
+  },
+
+  "home-assistance": {
+    "canonical": "Home Assistance",
+    "prohibited": ["home help", "home support", "post-hospital support"],
+    "context": "Additional benefit providing hands-on support after a hospital stay of two or more nights. Provided by Grace Consulting. Always written with both words capitalised."
+  },
+
+  "mygym-discounts": {
+    "canonical": "MyGymDiscounts",
+    "prohibited": ["My Gym Discounts", "gym discounts", "gym membership benefit", "MyGym"],
+    "context": "Additional benefit offering discounts on gym memberships and digital fitness subscriptions across 4,300 UK locations. Provided by Epassi. Always written as one word with capital M, G, and D."
+  },
+
+  "on-demand-physio": {
+    "canonical": "On-Demand Physio",
+    "prohibited": ["physio benefit", "online physiotherapy", "virtual physio", "on demand physio"],
+    "context": "Additional benefit providing physiotherapy consultations via phone or video. Provided by PhysioMed. Always hyphenate 'On-Demand'. Both words capitalised."
+  },
+
+  "mental-wellbeing-support": {
+    "canonical": "Mental Wellbeing Support",
+    "prohibited": ["mental health app", "Wisdom", "wellness support"],
+    "context": "Additional benefit. The Wisdom app provides personalised wellness tracking, mental health improvement, and resilience tools. Provided by Health Assured. Refer to the benefit as 'Mental Wellbeing Support' in content. The app name 'Wisdom' may be used in instructional context when directing members to access it."
+  },
+
+  "digital-wellbeing-platform": {
+    "canonical": "Digital Wellbeing Platform",
+    "prohibited": ["wellbeing platform", "digital wellness platform", "online wellbeing"],
+    "context": "Additional benefit providing self-help resources, fitness tracking, meditation, and live fitness classes. Provided by Spectrum.Life. Always written with all three words capitalised."
+  },
+
+  "thrive-mental-wellbeing": {
+    "canonical": "Thrive Mental Wellbeing",
+    "prohibited": ["Thrive", "the Thrive app", "Thrive app", "Thrive mental health"],
+    "context": "Always use the full name 'Thrive Mental Wellbeing'. Never shorten to 'Thrive' alone. When describing the product, use the approved description: an NHS digitally compliant app for the screening and self-management of mental health conditions. The NHS digitally compliant claim must always be accompanied by the footnote: 'Complies with NHS Digital Technology Assessment Criteria'. Provided by Thrive Therapeutic Software Ltd."
+  },
+
+  "thrive-mental-wellbeing-support": {
+    "canonical": "Thrive Mental Wellbeing Support",
+    "prohibited": ["Thrive Support", "Thrive mental support", "basic Thrive"],
+    "context": "Additional benefit variant. Provides access to evidence-based techniques and tools to help manage mental health. Provided by Thrive Therapeutic Software Ltd. Use this name when referring to the standard tier of Thrive access without coaching."
+  },
+
+  "thrive-mental-wellbeing-support-with-coaching": {
+    "canonical": "Thrive Mental Wellbeing Support with Coaching",
+    "prohibited": ["Thrive with Coaching", "Thrive Coaching", "Thrive therapy"],
+    "context": "Additional benefit variant. Provides evidence-based techniques plus access to a human-led therapy service, including in-app chat with a consultant psychiatrist or psychologist. Provided by Thrive Therapeutic Software Ltd. Always use the full name to distinguish from the standard tier."
+  },
+
+  "cancer-screening": {
+    "canonical": "Cancer Screening",
+    "prohibited": ["cancer check", "blood test benefit", "screening benefit"],
+    "context": "Additional benefit providing early cancer detection through a self-administered finger-prick blood test kit. Provided by Prevent Limited, trading as Health Shield. Always written with both words capitalised."
+  },
+
+  "mywellness": {
+    "canonical": "MyWellness",
+    "prohibited": ["My Wellness", "my wellness", "mywellness benefits"],
+    "context": "Legacy name for the suite of additional benefits previously branded under this name. Health Shield is in the process of phasing out this term. Do not lead new content with the MyWellness name. Where existing references remain, note that services may differ by plan type and can change without notice. Check with the Content and Brand team before using this name in new content."
+  }
+
+},
   "voice_attributes": {
     "_comment": "Define product voice attributes here. Format: attribute name with definition and contrast.",
     "example": {
