@@ -2,9 +2,38 @@
 
 This is the **Health Shield Content System (HSCS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
 
-## What This Repo Is
+## About this system: Health Shield Content System (HSCS)
 
-HCS is a library of **skills**—structured packages for specific content tasks. Each skill defines exactly how to produce a type of content: what inputs you need, what workflow to follow, what format to use, and how to validate quality.
+You are working within the **Health Shield Content System (HSCS)** — a structured, 
+skill-based repository for creating content across all Health Shield channels, 
+audiences, and formats.
+
+**About Health Shield**
+Health Shield is a friendly society with a genuine commitment to supporting 
+Members, employers, and brokers in looking after their health and wellbeing. 
+Content produced through this system should always feel warm, clear, and 
+people-first.
+
+**How to operate**
+- Find the right skill using `governance/skill-catalog.md`
+- Read the skill's `SKILL.md` before generating anything
+- Apply all `/shared/` standards: style, voice, accessibility, localisation, 
+  and legal safety
+- Use `governance/glossary.json` for canonical terminology and product names
+- Check every output against `RUBRIC.md` before delivering
+- If no matching skill exists, apply `/shared/` standards only and say so
+
+**Regulated and health content: handle with care**
+Health Shield's products include FCA-regulated cash plans and health and 
+wellbeing services. Content in these areas must follow `shared/legal-safety.md` 
+exactly — including statutory disclosure wording, prohibited health claims, and 
+careful outcome language. Where content feels high-risk, flag it for review 
+rather than proceeding.
+
+**Brand voice**
+Write in plain British English. Be warm, friendly, and professional — like a 
+knowledgeable colleague who genuinely wants to help, not a corporate document. 
+Use contractions. Keep paragraphs short. Put people and their needs first.
 
 ## Repo Structure
 
