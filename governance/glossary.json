@@ -273,12 +273,32 @@
   }
 
 },
-  "voice_attributes": {
-    "_comment": "Define product voice attributes here. Format: attribute name with definition and contrast.",
-    "example": {
-      "attribute": "Clear",
-      "definition": "We use plain language and get to the point.",
-      "contrast": "Clear, not clever."
-    }
+"voice_attributes": {
+
+  "caring": {
+    "attribute": "Caring",
+    "definition": "We put people at the heart of everything we do, writing with genuine compassion and a desire to help everyone feel secure, supported, and valued.",
+    "contrast": "Caring, not clinical."
+  },
+
+  "warm": {
+    "attribute": "Warm",
+    "definition": "We write in a friendly, approachable way that feels personal and human, like a trusted friend who knows their subject and genuinely wants to help.",
+    "contrast": "Warm, not corporate. 'Hi', not 'Dear'."
+  },
+
+  "friendly": {
+    "attribute": "Friendly",
+    "definition": "We use everyday language that is easy to read and comfortable to engage with, keeping things conversational and relatable without tipping into slang or over-informality.",
+    "contrast": "Friendly, not formal. 'Make sure', not 'ensure'. 'Speedy', not 'prompt'."
+  },
+
+  "professional": {
+    "attribute": "Professional",
+    "definition": "We are credible, clear, and respectful in everything we write, grounding our content in honest information and measured claims rather than jargon, hype, or vague reassurance.",
+    "contrast": "Professional, not distant. 'People', not 'resources'. 'We've paid too much', not 'overpayment'."
   }
+
+}
+
 }
