@@ -24,8 +24,8 @@ Inclusive language, screen reader compatibility, and cognitive accessibility rul
 
 ### Reading Level
 
-1. Target 8th grade reading level for general UI content.
-2. Target 10th grade reading level for technical documentation.
+1. 9-11 year-old reading age for general UI content.
+2. 9-11 year-old reading age for technical documentation.
 3. Measure using Flesch-Kincaid or equivalent.
 4. Specialized terminology permitted if defined on first use or in glossary.
 
