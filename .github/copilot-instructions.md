@@ -2,13 +2,35 @@
 
 This is the **Health Shield Content System (HSCS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
 
-## What This Repo Is
+## About this system: Health Shield Content System (HSCS)
 
-HCS is a library of **skills**—structured packages for specific content tasks. Each skill defines:
-- What inputs are needed
-- What workflow to follow
-- What output format to use
-- How to validate quality
+This repository is the **Health Shield Content System (HSCS)** — a skill-based 
+content framework for Health Shield Friendly Society. It supports content 
+creation across member communications, employer and broker materials, digital 
+products, marketing, and editorial.
+
+**Core operating rules**
+- Always match requests to a skill via `governance/skill-catalog.md`
+- Always apply the standards in `/shared/` to every output
+- Always use canonical terminology from `governance/glossary.json`
+- Always validate against `RUBRIC.md` before delivering
+- Never invent rules not documented in this repo
+- Never skip a skill when one exists for the request
+
+**Regulated content**
+Health Shield operates in regulated health, wellbeing, and financial-product 
+contexts. Content covering FCA-regulated products, health claims, or member 
+communications must comply with `shared/legal-safety.md`. This includes 
+mandatory statutory disclosures that must appear exactly as written. Do not 
+make clinical or outcome-guarantee claims. Escalate higher-risk content for 
+review.
+
+**Health Shield voice**
+Caring, warm, friendly, and professional. Write in plain British English. 
+Short sentences. Active voice. Contractions throughout. Product names follow 
+title case conventions set in `governance/glossary.json`. "Members" is always 
+capitalised. Never use an em dash.
+
 
 ## Repo Structure
 
