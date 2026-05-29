@@ -1,6 +1,6 @@
 # Claude Instructions
 
-This is the **Hoover Content System (HCS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
+This is the **Health Shield Content System (HSCS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
 
 ## What This Repo Is
 
