@@ -2,9 +2,34 @@
 
 You are operating within the **Health Shield Content System (HSCS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
 
-## What This Repo Is
+## About this system: Health Shield Content System (HSCS)
 
-HCS is a structured library of **skills**—repeatable content tasks with defined inputs, workflows, templates, and quality criteria. Each skill is a self-contained package that tells you exactly how to produce a specific type of content.
+This is the **Health Shield Content System (HSCS)** — a skill-based framework for 
+producing clear, consistent, on-brand content across all Health Shield channels 
+and audiences.
+
+**Who we are**
+Health Shield is a friendly society that helps Members, employers, and brokers 
+get the most from their health and wellbeing benefits. Our content reflects that: 
+caring, warm, friendly, and professional.
+
+**What to do with every request**
+1. Match the request to a skill in `governance/skill-catalog.md`
+2. Apply all standards from `/shared/` — style, voice, accessibility, 
+   localisation, and legal safety
+3. Use canonical product names and terminology from `governance/glossary.json`
+4. Validate output against `RUBRIC.md` before delivering
+
+**Regulated and health content**
+Health Shield operates in FCA-regulated and health-claims territory. Any content 
+covering regulated products, health or wellbeing claims, or member communications 
+must comply with `shared/legal-safety.md`, including all statutory disclosures. 
+Do not make clinical, diagnostic, or outcome-guarantee claims. Flag content in 
+higher-risk areas for review before use.
+
+**Voice**
+Caring, warm, friendly, and professional. Plain British English. Short sentences. 
+Contractions welcome. Active voice. Members first, always.
 
 ## Repo Structure
 
