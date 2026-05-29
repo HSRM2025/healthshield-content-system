@@ -15,10 +15,9 @@ Translation-ready writing and locale-neutral patterns for all content outputs.
 
 ### Text Expansion
 
-1. Allow 30–40% expansion for English-to-other-language translation.
-2. Do not design for exact character counts.
-3. Avoid fixed-width containers for text that will be localized.
-4. Button and label text must tolerate expansion without truncation.
+1. Do not design for exact character counts.
+2. Avoid fixed-width containers for text that will be localized.
+3. Button and label text must tolerate expansion without truncation.
 
 ### Cultural Neutrality
 
@@ -29,11 +28,7 @@ Translation-ready writing and locale-neutral patterns for all content outputs.
 
 ### Date, Time, and Numbers
 
-1. Do not hardcode date formats. Use locale-aware formatting.
-2. Do not hardcode time formats. Support 12-hour and 24-hour.
-3. Do not hardcode currency symbols or positions.
-4. Do not hardcode decimal or thousands separators.
-5. Write dates in ISO 8601 when locale is unknown (2026-02-20).
+1. Use UK-first defaults as Health Shield operates only in the UK.
 
 ### Units and Measurement
 
