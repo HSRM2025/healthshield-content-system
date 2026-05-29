@@ -1,6 +1,6 @@
 # Agent Instructions
 
-You are operating within the **Hoover Content System (HCS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
+You are operating within the **Health Shield Content System (HSCS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
 
 ## What This Repo Is
 
