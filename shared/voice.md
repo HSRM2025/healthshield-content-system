@@ -66,13 +66,13 @@ Warmth is woven into every word we write. Our tone is friendly, welcoming, and a
 - use slang
 - sound flippant about health or wellbeing
 
-### Clear
+### Friendly
 
-We always explain things simply, using clear, welcoming language that everyone can understand. Our aim is to make information easy to follow—no jargon or complicated phrases—so every reader, no matter who they are, feels included and confident in what they’ve read.
+We use everyday language that is easy to read and comfortable to engage with, keeping things conversational and relatable without tipping into slang or over-informality.
 
 **Do:**
 
-- use plain English
+- use plain English with contractions
 - keep sentences and paragraphs short
 - explain things simply
 
@@ -82,9 +82,9 @@ We always explain things simply, using clear, welcoming language that everyone c
 - hide meaning behind formal language
 - overload the reader with too much at once
 
-### Practical
+### Professional
 
-Practical means giving clear, simple support that anyone can use. We share information in a way that feels friendly and approachable—never distant or confusing. Our goal is to make sure everyone feels included, knows what something is for, and understands how it can help them or their business right now. We always put the reader’s needs first, making every message easy to follow and genuinely helpful.
+We are credible, clear, and respectful in everything we write, grounding our content in honest information and measured claims rather than jargon, hype, or vague reassurance.
 
 **Do:**
 
