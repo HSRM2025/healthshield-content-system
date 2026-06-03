@@ -280,6 +280,24 @@ Checks whether the final sections needed for publication are present and complet
 
 ---
 
+## 13. Stylistic variety and natural flow
+
+Checks whether the draft report varies its sentence structures, openings, transitions, and section endings.
+
+| Criteria | Pass | Needs work | Fail |
+| --- | --- | --- | --- |
+| Sentence variety | Sentence structures feel varied and natural across the report | Some sentence patterns are repeated too often | The same sentence formulas recur throughout the report |
+| Opening variety | Sections and chapters open in different ways, with no obvious repeated setup | Some openings feel too similar | Most sections open with the same type of sentence or framing |
+| Transition control | Transitions are light-touch, varied, and not overused | Some transition phrases are repeated or over-signposted | Repeated transition phrases make the draft feel mechanical or over-signposted |
+| Ending variety | Sections end in ways that feel purposeful but not uniform | Some endings feel repetitive or over-shaped | Most sections close with the same takeaway, business-case line, or summary pattern |
+| Formula restraint | Stock constructions such as “By X, organisations can Y” or “not just X, but Y” are used sparingly or not at all | One or two formulaic constructions are overused | Repeated formulaic constructions make the report sound templated or AI-assisted |
+| Structural variation | Chapters do not all follow the same challenge–implication–response pattern | Some chapters feel too similarly built | The report feels mechanically assembled from repeated section shapes |
+| Business-case restraint | Commercial or organisational implications are used where genuinely helpful, not attached to every point | Some findings are given unnecessary business framing | Nearly every issue is converted into a business case, weakening nuance and variety |
+
+**Pass rule:** The report should read as varied and naturally written from start to finish. Repeated sentence formulas, over-signposting, or mechanically repeated section shapes should result in **Needs work** or **Fail**, depending on severity.
+
+---
+
 ## Critical failures
 
 Any item below is an automatic fail for the draft until fixed.
