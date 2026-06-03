@@ -16,7 +16,7 @@ This skill should produce content that helps employers, partners, brokers, media
 
 ## Gold-standard model
 
-The attached published Health Shield survey whitepaper is the **gold-standard model** for this skill.
+Use the attached published report as a guide for structure, section order, and end-matter only. Do not copy its sentence rhythms, signposting habits, or recurring formulas. Aim for a plainer, less patterned style – closer to writing that feels naturally composed than to a polished but repetitive template.
 
 Use it to guide:
 
@@ -658,6 +658,10 @@ Avoid formulaic and mechanically assembled writing. Do not repeat the same sente
 - avoid alarmist wording
 - avoid sweeping national statements
 - avoid unsupported “crisis” language unless clearly supported and approved
+
+### Human and commercial significance
+
+Not every finding needs a business case. Some findings matter most because of what they mean for real people facing real pressures. Where that's the truer point, lead with the human significance and let it stand. Save commercial framing – productivity, retention, absence – for the findings where it genuinely fits. Forcing a business implication onto every section makes the report feel repetitive and removes its warmth.
 
 ### Required regulatory wording
 
