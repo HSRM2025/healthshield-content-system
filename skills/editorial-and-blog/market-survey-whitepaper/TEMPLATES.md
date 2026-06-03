@@ -498,6 +498,8 @@ Use at the end of a chapter or after a strong cluster of findings.
 ```
 ### Key observation
 
+Use key observations sparingly. Add one only where a chapter genuinely benefits from a short summary. Placing a key observation after every chapter makes the report feel mechanical and predictable. Trust the reader – many chapters can close without one.
+
 [One short paragraph that captures the chapter’s main takeaway in a clear, evidence-led way.]
 
 [Optional second sentence linking the takeaway to business, workforce, or market relevance.]
