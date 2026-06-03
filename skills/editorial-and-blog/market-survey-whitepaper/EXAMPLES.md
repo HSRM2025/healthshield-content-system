@@ -453,3 +453,5 @@ Before reusing any structure from this file, check that your live draft:
 - [ ] sounds clear, calm, and easy to quote
 
 Use these examples as working models for quality. If a draft is harder to read, sounds more promotional, or makes bigger claims than the examples here, it likely needs another pass.
+
+If a draft leans on the same phrases, the same chapter shape, or a business case at the end of every section, it needs another pass. Read it aloud. If it sounds built rather than written, vary it until it sounds like a person.
