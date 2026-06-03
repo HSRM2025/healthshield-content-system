@@ -11,6 +11,10 @@ Pass if all are true:
 - Objections are addressed before final CTA
 - Secondary CTA reinforces primary goal (no competing goals)
 - Supporting CTA text reduces friction
+- the writing sounds natural and specific rather than templated
+- sentence lengths vary in a way that feels human and easy to read
+- conclusions feel earned and relevant
+- transitions are used sparingly and only where helpful
 
 Fail if any are true:
 - Multiple competing goals or CTAs (signup AND schedule demo AND download)
@@ -21,3 +25,8 @@ Fail if any are true:
 - Paragraphs exceed 3-4 sentences
 - Page goal is unclear or missing
 - Traffic source mismatch (ad promises X, page delivers Y)
+- the draft relies on contrast-by-negation patterns such as "isn't just X, it's Y"
+- the copy uses rhetorical kicker lines or ask-then-answer formulas without a clear reason
+- buzzwords or inflated phrasing replace plain English
+- the ending is generic, moralising, or inspirational without substance
+- the rhythm is uniformly flat across the piece
