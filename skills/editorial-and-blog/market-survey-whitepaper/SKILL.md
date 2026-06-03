@@ -652,6 +652,8 @@ These rules are strict.
 
 ### Tone and evidence
 
+Avoid formulaic and mechanically assembled writing. Do not repeat the same sentence formulas across the report. In particular, use constructions like "By X, organisations can Y" and "not just X, but Y" no more than once each. Vary your openings, transitions, and section endings. The report should read as if a person wrote it with care, not as if sections were built from a fixed kit.
+
 - favour **quotable, evidence-led phrasing without sensationalism**
 - avoid alarmist wording
 - avoid sweeping national statements
