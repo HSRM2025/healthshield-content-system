@@ -11,6 +11,11 @@ Pass if all are true:
 - Proof points are concrete (numbers, names, verifiable claims)
 - Messaging hierarchy has clear primary → secondary structure
 - Competitive positioning avoids naming competitors disparagingly
+- the writing sounds natural and specific rather than templated
+- sentence lengths vary in a way that feels human and easy to read
+- conclusions feel earned and relevant
+- transitions are used sparingly and only where helpful
+
 
 Fail if any are true:
 - Value proposition is a feature list, not benefit statement
@@ -21,3 +26,8 @@ Fail if any are true:
 - Missing proof points or credibility markers
 - Messaging is interchangeable with competitor's
 - Uses internal jargon or undefined acronyms
+- the draft relies on contrast-by-negation patterns such as "isn't just X, it's Y"
+- the copy uses rhetorical kicker lines or ask-then-answer formulas without a clear reason
+- buzzwords or inflated phrasing replace plain English
+- the ending is generic, moralising, or inspirational without substance
+- the rhythm is uniformly flat across the piece
