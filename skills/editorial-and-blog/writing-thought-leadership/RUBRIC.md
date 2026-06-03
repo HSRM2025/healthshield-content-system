@@ -11,6 +11,10 @@ Pass if all are true:
 - Ends with implication or call to reflection, not summary
 - Author's expertise is relevant to the topic and made credible
 - Audience's current beliefs are acknowledged before challenging them
+- the writing sounds natural and specific rather than templated
+- sentence lengths vary in a way that feels human and easy to read
+- conclusions feel earned and relevant
+- transitions are used sparingly and only where helpful
 
 Fail if any are true:
 - Thesis is generic or could apply to any company/leader ("Innovation is important")
@@ -23,3 +27,8 @@ Fail if any are true:
 - No clear "so what" — reader can't identify what to think or do differently
 - All evidence is hypothetical or unnamed
 - Lecture tone without acknowledging reader's context or intelligence
+- the draft relies on contrast-by-negation patterns such as "isn't just X, it's Y"
+- the copy uses rhetorical kicker lines or ask-then-answer formulas without a clear reason
+- buzzwords or inflated phrasing replace plain English
+- the ending is generic, moralising, or inspirational without substance
+- the rhythm is uniformly flat across the piece
