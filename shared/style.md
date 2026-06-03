@@ -325,6 +325,133 @@ Use emojis sparingly and only in appropriate contexts:
 
 ---
 
+## Natural writing and anti-formula rules
+
+Health Shield content must sound natural, specific, and written by a real person for a real audience. Do not rely on formulaic patterns that make writing feel generic, automated, or over-processed.
+
+### Avoid contrast-by-negation formulas
+
+Do not use structures such as:
+
+- "isn't just X, it's Y"
+- "not only X, but Y"
+- "it isn't merely X, but rather Y"
+
+These patterns often sound forced and over-written. If a stronger point matters, state it directly.
+
+Prefer:
+
+- "This guide explains what employers need to do next."
+- "Our cover helps with everyday health costs and gives people more support."
+
+Avoid:
+
+- "This isn't just a guide, it's a roadmap for healthier teams."
+- "It isn't merely a benefit, but a commitment to employee wellbeing."
+
+### Avoid stock transitions
+
+Do not overuse sentence-opening transitions such as:
+
+- moreover
+- furthermore
+- additionally
+- consequently
+
+These can make copy sound stiff and generic. Use them only when they genuinely help the reader follow a complex argument. In most Health Shield content, a simpler sentence or cleaner paragraph break will read better.
+
+Prefer natural flow over formal signposting.
+
+### Avoid buzzwords and inflated phrasing
+
+Do not use dramatic or inflated wording where plain English will do.
+
+Avoid phrases such as:
+
+- delve into
+- underscores
+- testament to
+- game-changer
+- navigate the complexities
+- unlock
+- revolutionise
+- transformative
+
+Prefer direct, useful wording that says exactly what the reader gets.
+
+Prefer:
+
+- "explains"
+- "shows"
+- "helps"
+- "important"
+- "useful"
+- "practical"
+
+### Avoid rhetorical kicker lines
+
+Do not use dramatic conversational pivots such as:
+
+- "The kicker?"
+- "Here's the truth."
+- "The reality is..."
+- "But here's the thing."
+
+These often feel staged rather than helpful. If a point matters, make it plainly.
+
+### Avoid ask-then-answer structures unless they are genuinely useful
+
+Do not default to a pattern where the copy asks a question and answers it immediately.
+
+Avoid:
+
+- "Why does this matter? Because..."
+- "What does this mean for employers? It means..."
+- "So what can you do next? You can..."
+
+Use this structure only when it clearly improves scannability, such as in a real FAQ. In most cases, a direct statement is stronger.
+
+Prefer:
+
+- "This matters because it affects how quickly employees can access support."
+- "Next, choose the plan that fits your team."
+
+### Avoid formulaic conclusions
+
+Do not end pieces with generic summary cues such as:
+
+- "In summary"
+- "Ultimately"
+- "In conclusion"
+
+These endings feel predictable and add little value. End by reinforcing the main point, clarifying the next step, or closing naturally.
+
+### Do not rely on em dashes for rhythm or emphasis
+
+Em dashes are banned in Health Shield style. Do not use them to create a dramatic pause or stitch together clauses for effect. Use a full stop, comma, or rewrite the sentence.
+
+### Vary sentence length naturally
+
+Avoid writing where every sentence has a similar length, shape, or weight. That creates a flat and mechanical rhythm.
+
+Aim for natural variation:
+- some short sentences
+- some longer ones where detail helps
+- occasional fragments only where appropriate and clear
+
+Read the draft aloud. If every sentence lands with the same cadence, rewrite.
+
+### Avoid generic moral endings
+
+Do not finish simple content with inflated or unearned statements such as:
+
+- "Embrace the future of wellbeing"
+- "The future starts here"
+- "Together, we can transform health support"
+
+Close in a way that feels earned, specific, and useful. A good ending should match the actual substance of the piece.
+
+
 ## Prohibited style patterns
 
 The following are not permitted in Health Shield content.
@@ -341,6 +468,14 @@ The following are not permitted in Health Shield content.
 | Jargon without explanation                                                 | Readers should never need to decode our content                                 |
 | Lowercase "members" when referring to Health Shield Members                | Members come first. Always capitalise.                                          |
 | "Staff", "human resources", or "talent" for employees                      | Use "people" or "employees" depending on context                                |
+| Contrast-by-negation phrasing ("isn't just X, it's Y") | Feels formulaic and over-written | State the stronger point directly |
+| Heavy use of sentence-opening transitions ("Moreover", "Furthermore", "Additionally") | Creates a stiff, generic rhythm | Use simpler sentence links or paragraph breaks |
+| Buzzword-heavy phrasing ("game-changer", "delve into", "testament to") | Sounds inflated and AI-like | Use plain, specific language |
+| Rhetorical kicker lines ("The kicker?", "Here's the truth") | Feels staged and unnatural | Make the point directly |
+| Ask-then-answer structure outside genuine FAQs | Creates formulaic flow | Use direct statements |
+| Formulaic conclusions ("In summary", "Ultimately", "In conclusion") | Predictable and low-value | End with a relevant point or next step |
+| Uniform sentence rhythm throughout a passage | Sounds flat and mechanical | Vary sentence length naturally |
+| Generic inspirational endings | Feels unearned and vague | Close with a specific, grounded ending |
 
 ---
 
