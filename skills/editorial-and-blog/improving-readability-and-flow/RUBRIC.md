@@ -11,6 +11,10 @@ Pass if all are true:
 - Lists used for 3+ parallel items instead of run-on sentences
 - Front-loaded sentences (main point early, qualifications after)
 - Visual breaks every 500-800 words for web content
+- the writing sounds natural and specific rather than templated
+- sentence lengths vary in a way that feels human and easy to read
+- conclusions feel earned and relevant
+- transitions are used sparingly and only where helpful
 
 Fail if any are true:
 - Multiple consecutive sentences over 30 words
@@ -23,3 +27,8 @@ Fail if any are true:
 - Buried lede: key information after multiple introductory sentences
 - Run-on paragraphs: more than one main idea per paragraph
 - Readability degraded (metrics worse than original)
+- the draft relies on contrast-by-negation patterns such as "isn't just X, it's Y"
+- the copy uses rhetorical kicker lines or ask-then-answer formulas without a clear reason
+- buzzwords or inflated phrasing replace plain English
+- the ending is generic, moralising, or inspirational without substance
+- the rhythm is uniformly flat across the piece
