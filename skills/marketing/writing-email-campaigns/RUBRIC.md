@@ -19,6 +19,10 @@ Pass if all are true:
 - Claims are careful and supported, with no promises of outcomes or overstated benefits
 - Any regulated, legal, or medically risky claim is removed, softened, or flagged for review
 - Alt text is provided for all images, if images are included
+- the writing sounds natural and specific rather than templated
+- sentence lengths vary in a way that feels human and easy to read
+- conclusions feel earned and relevant
+- transitions are used sparingly and only where helpful
 
 Fail if any are true:
 
@@ -38,3 +42,8 @@ Fail if any are true:
 - The copy promises results, guarantees outcomes, or makes unsupported health or workplace claims
 - Risky wording around prevention, recovery, sickness absence, or product benefit is presented as fact without approval
 - Alt text is missing for included images
+- the draft relies on contrast-by-negation patterns such as "isn't just X, it's Y"
+- the copy uses rhetorical kicker lines or ask-then-answer formulas without a clear reason
+- buzzwords or inflated phrasing replace plain English
+- the ending is generic, moralising, or inspirational without substance
+- the rhythm is uniformly flat across the piece
