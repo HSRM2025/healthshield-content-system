@@ -384,6 +384,27 @@ We always sound friendly, welcoming, and approachable—never stiff, cold, or di
 
 ## Prohibited tone patterns
 
+### Write like a person, not a template
+
+Health Shield writing should feel natural, specific, and genuinely helpful. It must not sound automated, over-produced, or built from stock phrases.
+
+### Do
+
+- make the point directly
+- use plain words over dramatic phrasing
+- vary sentence length naturally
+- end on a specific, useful thought
+- sound like a real person speaking clearly
+
+### Do not
+
+- rely on "isn't just X, it's Y" constructions
+- stack transitions such as "Moreover", "Furthermore", or "Additionally"
+- use rhetorical pivots like "Here's the truth" or "The kicker?"
+- ask a question and answer it immediately unless the format truly calls for it
+- end with generic uplift or vague inspiration
+- use buzzwords or inflated claims to create depth that is not really there
+
 Avoid content that feels closed off, unfriendly, or distant. Steer clear of any tone that could make someone feel excluded, overwhelmed, or like their needs aren’t being heard. We never want our writing to come across as:
 
 - overly clinical or cold
