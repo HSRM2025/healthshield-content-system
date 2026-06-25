@@ -198,11 +198,72 @@ Use contractions. They make our writing feel natural and warm. Avoid the expande
 | We'll  | We will (unless for emphasis)    |
 | Thanks | Thank you (in informal contexts) |
 
-### Sentence starters
+### Sentence starters and transitional variety
 
 You can start a sentence with "And", "But", "So", or "Because". It is conversational and natural. There is no rule against it.
 
 > "Businesses come in all shapes and sizes. So do our health cash plans." ✓
+
+Repeating the same sentence opener throughout a piece is one of the quickest ways to make writing feel automated. Even when each sentence reads fine on its own, a run of identical openers creates a flat, mechanical rhythm that a reader notices straight away.
+
+The aim here isn't to ban any particular word. It's to make sure no single opener becomes a visible pattern within the same piece.
+
+#### Openers to watch
+
+These words are all useful, and our style allows sentences to begin with "But", "And", and "So". The problem isn't the words themselves. It's using the same one repeatedly, especially several times in quick succession.
+
+Keep an eye on these common culprits:
+
+- **But**
+- **And**
+- **So**
+- **This**
+- **That**
+- **It**
+
+A good rule of thumb: if the same opener appears more than twice in a short stretch of copy, vary it. Read the draft aloud. If the sentences all start to land the same way, rework them.
+
+#### Alternative openers
+
+When you need a transition, reach for variety. Here are some natural alternatives that fit our warm, plain-English voice:
+
+| Purpose                      | Try these openers                                                 |
+| ---------------------------- | ----------------------------------------------------------------- |
+| Adding a related point       | "At the same time,", "Alongside this,", "As well as this,"        |
+| Showing contrast             | "In contrast,", "Conversely,", "That said,", "On the other hand," |
+| Showing a result             | "As a result,", "Because of this,", "This means"                  |
+| Grounding a point in reality | "In practice,", "Day to day,", "For most teams,"                  |
+| Speaking to the reader       | "For employers,", "For your people,", "For HR teams,"             |
+
+Use these where they genuinely help the reader follow along. A clean paragraph break or a simple rewrite is often better than any signpost at all.
+
+#### Before and after
+
+The example below shows the same passage with repetitive openers, then with natural variety.
+
+**Avoid:**
+
+```
+It starts with a manager who notices something is different. It continues with an organisation that points people to support. And it is backed by benefits that give practical access to care. And those benefits don't need a big budget. But they do need to be easy to reach. But that's where we can help.
+```
+
+**Prefer:**
+
+```
+It starts with a manager who notices something is different. From there, an organisation can point people to the right support. Benefits then give practical access to care, often without the big budget you might expect. The real test is whether your people can reach that help easily, and that's where we can help.
+```
+
+The second version keeps the same warm, supportive message. The difference is rhythm: the sentences open in different ways, so the writing feels considered rather than churned out.
+
+#### Quick checks
+
+Before you finish a piece, run through these:
+
+- No opener used more than twice in close succession
+- "It", "This", and "That" not leaning on the start of back-to-back sentences
+- Transitions varied where they appear
+- The draft read aloud, with no flat, repeating cadence
+
 
 ### Active voice
 
